@@ -1,0 +1,6 @@
+# Directories to ignore when uploading code to floyd
+# Do not add a trailing slash for directories
+
+.git
+__pycache__
+.ipynb_checkpoints
